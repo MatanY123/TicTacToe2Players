@@ -13,6 +13,7 @@ public class BoardGame  extends View
         super(context);
     }
 
+
     @Override
     protected void onDraw(@NonNull Canvas canvas) {
         super.onDraw(canvas);
